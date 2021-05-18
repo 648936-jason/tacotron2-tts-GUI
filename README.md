@@ -2,6 +2,10 @@
 
 Run 'python gui_tester.py'
 
+## Google Colab notebook for inference (update 18 May 2021)
+
+Upload 'NVIDIA_Tacotron2_Waveglow.ipynb' to new Google Colab Notebook.
+
 ## GUI Work in Progress (update 4 August 2020)
 GUI wrapper for synthesize. Allows CPU-only synthesis via a toggleable switch. Portable exe file is available (that runs on CPU only).
 
